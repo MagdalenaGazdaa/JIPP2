@@ -1,0 +1,49 @@
+#include <iostream>
+#include <string>
+using namespace std;
+
+void menu(){
+    cout <<"\n\nSimple calculatur\n\n";
+    cout <<"Wpisz 'add' oraz podaj dwa parametry\n\tDodawanie dwoch liczb calkowitych a+b\n";
+    cout <<"Wpisz 'subtract' oraz podaj dwa parametry\n\tOdejmowanie dwoch liczb calkowitych a-b \n";
+    cout <<"Wpisz 'volume' oraz podaj 4 parametry \n\tObjetosc graniastoslupa prostego o podstawie trapezu a,b - podstawy trapezu, h - wysokosc trapezu, H- wysokosc bryly";
+    cout <<"\nWpisz 'help'\n\t Wyswietlanie dokumentacji\n";
+}
+void erroa(){
+    cout <<"Bledne dane!\nPodaj co chcesz zrobic oraz odpowiednia ilosc danych\n" ;
+    menu();
+}
+int add(int x,int y){
+   return x+y;
+}
+
+int subtract(int x, int y){
+    return x-y;
+}
+int volume(int a, int b, int h, int h2){
+    float v= 0.5*(a+b)*h*h2;
+    return v;
+}
+int main(int argc, char *argv[]) {
+
+          if(strcmp(argv[1],"add")==0&&argc==4){
+              cout<<"simpleCalc add\n";
+
+              cout<<argv[2]<<"+"<<argv[3]<<"="<<add(atoi(argv[2]),atoi(argv[3]));
+          }
+          else if(strcmp(argv[1],"subtract")==0&&argc==4) {
+              cout<<"simpleCalc ODEJMOWANIE\n";
+              cout<<argv[2]<<"-"<<argv[3]<<"="<<subtract(atoi(argv[2]),atoi(argv[3]));
+          }
+          else if(strcmp(argv[1],"volume")==0&&argc==6) {
+              cout<<"simpleCalc Objetosc\n";
+              cout << "objetisc graniastoslupa prostego o podstawie trapezu dlugosci "<<argv[2]<<", "<<argv[3]<<", wysokosc trapezu "<<argv[4]<<" wysokosc bryly "<<argv[5];
+              cout <<endl<<"objetosc wynosi: "<<volume(atoi(argv[2]),atoi(argv[3]),atoi(argv[4]),atoi(argv[5]));
+          }
+          else if(strcmp(argv[1],"help")==0&&argc==2) menu();
+          else erroa();
+
+    return 0;
+}
+
+
