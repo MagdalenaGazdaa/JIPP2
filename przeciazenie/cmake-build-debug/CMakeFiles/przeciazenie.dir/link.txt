@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/przeciazenie.dir/main.cpp.o  -o przeciazenie 
