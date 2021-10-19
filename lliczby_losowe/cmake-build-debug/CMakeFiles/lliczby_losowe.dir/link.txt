@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/lliczby_losowe.dir/main.cpp.o  -o lliczby_losowe 
