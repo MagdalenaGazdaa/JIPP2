@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/wartosc_max_tablicy.dir/main.cpp.o  -o wartosc_max_tablicy 

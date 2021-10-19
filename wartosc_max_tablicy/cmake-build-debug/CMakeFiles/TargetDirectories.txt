@@ -1,0 +1,3 @@
+/home/student/CLionProjects/untitled1/wartosc_max_tablicy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/student/CLionProjects/untitled1/wartosc_max_tablicy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/student/CLionProjects/untitled1/wartosc_max_tablicy/cmake-build-debug/CMakeFiles/wartosc_max_tablicy.dir
