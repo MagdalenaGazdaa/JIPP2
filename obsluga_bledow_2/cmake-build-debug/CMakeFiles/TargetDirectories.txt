@@ -1,0 +1,3 @@
+C:/Users/magda/Desktop/git/rep1/obsluga_bledow_2/cmake-build-debug/CMakeFiles/obsluga_bledow_2.dir
+C:/Users/magda/Desktop/git/rep1/obsluga_bledow_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/magda/Desktop/git/rep1/obsluga_bledow_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
