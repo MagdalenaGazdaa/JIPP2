@@ -1,0 +1,3 @@
+C:/Users/magda/Desktop/konstruktory/1/cmake-build-debug/CMakeFiles/1.dir
+C:/Users/magda/Desktop/konstruktory/1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/magda/Desktop/konstruktory/1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
