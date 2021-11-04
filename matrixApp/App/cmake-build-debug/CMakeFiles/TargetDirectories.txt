@@ -1,0 +1,8 @@
+C:/Users/magda/Desktop/matrixApp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/magda/Desktop/matrixApp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/magda/Desktop/matrixApp/cmake-build-debug/App/CMakeFiles/matrixApp.dir
+C:/Users/magda/Desktop/matrixApp/cmake-build-debug/App/CMakeFiles/edit_cache.dir
+C:/Users/magda/Desktop/matrixApp/cmake-build-debug/App/CMakeFiles/rebuild_cache.dir
+C:/Users/magda/Desktop/matrixApp/cmake-build-debug/matrixLib/CMakeFiles/matrixLib.dir
+C:/Users/magda/Desktop/matrixApp/cmake-build-debug/matrixLib/CMakeFiles/edit_cache.dir
+C:/Users/magda/Desktop/matrixApp/cmake-build-debug/matrixLib/CMakeFiles/rebuild_cache.dir
