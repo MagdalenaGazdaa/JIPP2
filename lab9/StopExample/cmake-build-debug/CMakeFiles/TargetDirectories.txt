@@ -1,0 +1,3 @@
+C:/Users/magda/Desktop/studia/jipp/lab9/StopExample/cmake-build-debug/CMakeFiles/vectorExample.dir
+C:/Users/magda/Desktop/studia/jipp/lab9/StopExample/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/magda/Desktop/studia/jipp/lab9/StopExample/cmake-build-debug/CMakeFiles/rebuild_cache.dir

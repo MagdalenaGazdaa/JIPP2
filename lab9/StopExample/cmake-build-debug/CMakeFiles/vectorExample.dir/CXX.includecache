@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/magda/Desktop/studia/jipp/lab9/StopExample/Line.cpp
+Line.h
+C:/Users/magda/Desktop/studia/jipp/lab9/StopExample/Line.h
+
+C:/Users/magda/Desktop/studia/jipp/lab9/StopExample/Line.h
+iostream
+-
+vector
+-
+Stop.h
+C:/Users/magda/Desktop/studia/jipp/lab9/StopExample/Stop.h
+
+C:/Users/magda/Desktop/studia/jipp/lab9/StopExample/Stop.h
+iostream
+-
+
+C:/Users/magda/Desktop/studia/jipp/lab9/StopExample/vExample.cpp
+iostream
+-
+vector
+-
+Stop.h
+C:/Users/magda/Desktop/studia/jipp/lab9/StopExample/Stop.h
+Line.h
+C:/Users/magda/Desktop/studia/jipp/lab9/StopExample/Line.h
+
