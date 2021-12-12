@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/odtwarzacz.h
+iostream
+../include/iostream
+vector
+-
+
+C:/Users/magda/Desktop/studia/jipp/lab9/zad2/src/odtwarzacz.cpp
+odtwarzacz.h
+C:/Users/magda/Desktop/studia/jipp/lab9/zad2/src/odtwarzacz.h
+
